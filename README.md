@@ -30,14 +30,18 @@ Aspiring **AI/ML Engineer** — I build practical ML/DL systems (computer vision
 ## 📌 Pinned / Highlights
 
 <!-- Pinned cards generated via https://github-readme-stats.vercel.app/api/pin -->
+<!-- GitHub Stats -->
+![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HassanCodesIt&show_icons=true&theme=dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HassanCodesIt\&repo=corn-leaf-disease-detection)](https://github.com/HassanCodesIt/corn-leaf-disease-detection)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HassanCodesIt\&repo=-NexusAI-Universal-Web-Powered-Chatbot)](https://github.com/HassanCodesIt/-NexusAI-Universal-Web-Powered-Chatbot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HassanCodesIt\&repo=Resume-Reviewer)](https://github.com/HassanCodesIt/Resume-Reviewer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HassanCodesIt\&repo=fruit-detection-yolo)](https://github.com/HassanCodesIt/fruit-detection-yolo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HassanCodesIt\&repo=Symptom-Checker-Chatbot)](https://github.com/HassanCodesIt/Symptom-Checker-Chatbot)
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanCodesIt&layout=compact&theme=dark)
 
----
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=HassanCodesIt&theme=dark&hide_border=false)
+
+<!-- Trophies -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=HassanCodesIt&theme=darkhub&no-bg=true&margin-w=15)
+
 
 ## 📈 GitHub Stats & Trophies
 
