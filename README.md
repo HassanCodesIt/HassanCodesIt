@@ -98,5 +98,3 @@ I focus on creating practical AI applications — from disease detection to inte
 > *“The only way to do great work is to love what you do.”* — Steve Jobs
 
 ---
-
-Would you like me to **add a “Pinned Projects Showcase” with large clickable cards (like portfolio tiles)** so recruiters instantly see your best 3 projects without scrolling through the whole table?
