@@ -1,5 +1,3 @@
-
-
 # 👋 Hey, I'm Hassan Huda
 
 Aspiring **AI/ML Engineer**, passionate about building impactful solutions with **Machine Learning, Deep Learning, and Computer Vision**.
@@ -75,7 +73,7 @@ I focus on creating practical AI applications — from disease detection to inte
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HassanCodesIt&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://metrics.lecoq.io/HassanCodesIt?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FKolkata" alt="GitHub Metrics Card" />
 </p>
 
 ---
@@ -98,3 +96,4 @@ I focus on creating practical AI applications — from disease detection to inte
 > *“The only way to do great work is to love what you do.”* — Steve Jobs
 
 ---
+
