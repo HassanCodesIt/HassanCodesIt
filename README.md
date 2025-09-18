@@ -55,35 +55,6 @@ I focus on creating practical AI applications — from disease detection to inte
 
 ---
 
-## 🧠 My AI Journey (Mermaid Diagram)
-
-```mermaid
-mindmap
-  root((Hassan Huda))
-    Skills
-      Python
-      Machine Learning
-      Deep Learning
-      Computer Vision
-      NLP
-    Projects
-      Corn Leaf Disease Detection
-      Fruit Detection YOLO
-      House Price Prediction
-      Lumos Learning App
-      Symptom Checker Chatbot
-      DDoS Attack Detection
-      NexusAI Chatbot
-    Domains
-      Healthcare
-      Transportation
-      Automation
-    Future Goals
-      Open Source
-      Reinforcement Learning
-      Generative AI
-      AI in Healthcare
-
 ---
 
 ## ✨ Inspirational Quote
