@@ -55,51 +55,34 @@ I focus on creating practical AI applications — from disease detection to inte
 
 ---
 
-## 📊 GitHub Stats & Achievements
+## 🧠 My AI Journey (Mermaid Diagram)
 
-<p align="center">
-  <a href="https://github.com/HassanCodesIt/corn-leaf-disease-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanCodesIt&repo=corn-leaf-disease-detection&theme=dark" />
-  </a>
-  <a href="https://github.com/HassanCodesIt/NexusAI-Universal-Web-Powered-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanCodesIt&repo=NexusAI-Universal-Web-Powered-Chatbot&theme=dark" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/HassanCodesIt/Resume-Reviewer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanCodesIt&repo=Resume-Reviewer&theme=dark" />
-  </a>
-  <a href="https://github.com/HassanCodesIt/Symptom-Checker-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanCodesIt&repo=Symptom-Checker-Chatbot&theme=dark" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HassanCodesIt&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HassanCodesIt&theme=darkhub&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HassanCodesIt&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/HassanCodesIt?style=social" alt="GitHub Followers" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hassan-huda/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:hassanhudapalakkad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+```mermaid
+mindmap
+  root((Hassan Huda))
+    Skills
+      Python
+      Machine Learning
+      Deep Learning
+      Computer Vision
+      NLP
+    Projects
+      Corn Leaf Disease Detection
+      Fruit Detection YOLO
+      House Price Prediction
+      Lumos Learning App
+      Symptom Checker Chatbot
+      DDoS Attack Detection
+      NexusAI Chatbot
+    Domains
+      Healthcare
+      Transportation
+      Automation
+    Future Goals
+      Open Source
+      Reinforcement Learning
+      Generative AI
+      AI in Healthcare
 
 ---
 
