@@ -1,3 +1,4 @@
+
 ---
 
 # 👋 Hey, I'm Hassan Huda
@@ -29,6 +30,12 @@ I focus on creating practical AI applications — from disease detection to inte
 | **[DDoS Attack Detection](https://github.com/HassanCodesIt/DDOS-attack-detection-using-logistic-regression)**        | Detects & classifies DDoS attacks.                                          | Logistic Regression, Python, scikit-learn   |
 | **[Resume Reviewer](https://github.com/HassanCodesIt/Resume-Reviewer)**                                              | Analyzes resumes & matches with job descriptions.                           | NLP, Transformers, Flask                    |
 | **[NexusAI: Universal Web-Powered Chatbot](https://github.com/HassanCodesIt/NexusAI-Universal-Web-Powered-Chatbot)** | Web-scraping + LLM chatbot delivering real-time answers.                    | Flask, HuggingFace LLMs, ChromaDB           |
+| **[Data Analysis Dashboard](https://github.com/HassanCodesIt/Data-Analysis-Dashboard)**                              | Upload, analyze & visualize CSV/Excel data.                                 | Flask, Pandas, Plotly, Bootstrap            |
+| **[Event Registration & Ticketing System](https://github.com/HassanCodesIt/Event-Registration-Ticketing-System)**    | Event registration & ticketing app.                                         | Python, Flask                               |
+| **[Leave Management System](https://github.com/HassanCodesIt/Leave-Management-System-PHP-)**                         | Leave management platform.                                                  | PHP, MySQL                                  |
+| **[RESTful Weather Logger](https://github.com/HassanCodesIt/RESTful-Weather-Logger)**                                | REST API fetching & displaying real-time weather data.                      | Flask, WeatherAPI, Bootstrap                |
+| **[AI Content Generator](https://github.com/HassanCodesIt/Ai-content-generator)**                                    | AI-based text content generator.                                            | TypeScript, LLMs                            |
+| **[Email Automation AI Agent](https://github.com/HassanCodesIt/email-automation-AI-AGENT)**                          | Automates emails with AI.                                                   | Python, Agents                              |
 
 ---
 
@@ -48,16 +55,7 @@ I focus on creating practical AI applications — from disease detection to inte
 
 ---
 
-## 🌟 Highlights
-
-✨ **Key Strengths:**
-
-* 🔹 Strong foundation in **AI/ML & Computer Vision**
-* 🔹 Experienced in **end-to-end project development** (from data preprocessing to deployment)
-* 🔹 Hands-on with **Flask, React, APIs, and DB integration**
-* 🔹 Contributor to **AI-based projects in healthcare & automation**
-
-📌 **Pinned Repo Cards:**
+## 📊 GitHub Stats & Achievements
 
 <p align="center">
   <a href="https://github.com/HassanCodesIt/corn-leaf-disease-detection">
@@ -66,6 +64,28 @@ I focus on creating practical AI applications — from disease detection to inte
   <a href="https://github.com/HassanCodesIt/NexusAI-Universal-Web-Powered-Chatbot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanCodesIt&repo=NexusAI-Universal-Web-Powered-Chatbot&theme=dark" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HassanCodesIt/Resume-Reviewer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanCodesIt&repo=Resume-Reviewer&theme=dark" />
+  </a>
+  <a href="https://github.com/HassanCodesIt/Symptom-Checker-Chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanCodesIt&repo=Symptom-Checker-Chatbot&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HassanCodesIt&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HassanCodesIt&theme=darkhub&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HassanCodesIt&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/HassanCodesIt?style=social" alt="GitHub Followers" />
 </p>
 
 ---
@@ -89,5 +109,4 @@ I focus on creating practical AI applications — from disease detection to inte
 
 ---
 
-✅ Now you have **no broken stat APIs**, instead a **Highlights Section** + pinned repo cards to show off projects.
 
