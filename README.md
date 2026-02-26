@@ -57,6 +57,10 @@
 | 🧮 [**AI Content Generator**](https://github.com/HassanCodesIt/Ai-content-generator) | LLM-powered creative writing & idea generation tool. | TypeScript • LLMs |
 | 🧑‍🏫 [**Lumos Learning App**](https://github.com/HassanCodesIt/Lumos-Learning-APP) | Accessibility-driven learning app for children. | React.js • TypeScript • Tailwind |
 | 🧳 [**Leave Management System**](https://github.com/HassanCodesIt/Leave-Management-System-PHP-) | Leave management system with role-based access. | PHP • MySQL |
+| 🩺 [**Medical Patient Routing Assistant**](https://github.com/HassanCodesIt/medical-patient-routing-assistant) | AI-powered clinical triage engine that analyzes symptoms and routes patients to the correct specialist. | FastAPI • Groq LLaMA • Python |
+| 📝 [**README & Docs Generator**](https://github.com/HassanCodesIt/README-and-Documentation-generator) | AI tool that auto-generates professional README files and technical documentation from uploaded code. | FastAPI • Groq • LangChain |
+| 🛠️ [**AI Tools All-in-One**](https://github.com/HassanCodesIt/AI-Tools-all-in-one) | A comprehensive collection of AI tools organized in a beautiful, modern web interface. | HTML • CSS • JavaScript |
+| 🎓 [**GitHub Copilot Codespaces VSCode**](https://github.com/HassanCodesIt/skills-copilot-codespaces-vscode) | Hands-on learning repository for GitHub Copilot, Codespaces, and VS Code skills. | GitHub Copilot • Codespaces |
 | 🧠 [**Personal Portfolio (This Repo)**](https://github.com/HassanCodesIt/HassanCodesIt) | My main profile repository showcasing my journey & projects. | Markdown • GitHub Stats |
 
 </div>
