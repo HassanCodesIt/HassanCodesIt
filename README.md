@@ -65,6 +65,9 @@
 
 </div>
 
+<!-- AUTO-GENERATED-REPOS-START -->
+<!-- AUTO-GENERATED-REPOS-END -->
+
 ---
 
 ## ⚙️ Tech Stack & Tools
