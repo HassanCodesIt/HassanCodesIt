@@ -81,28 +81,128 @@ I love bridging the gap between raw data and production-ready intelligence — c
 
 <br/>
 
-| &nbsp;**Project**&nbsp; | **Description** | **Stack** |
-|:---|:---|:---|
-| [🧩 RAG Study Assistant](https://github.com/HassanCodesIt/RAG-Study-Assistant) | Retrieval-Augmented Generation for intelligent study Q&A | `FastAPI` `Groq` `HuggingFace` `ChromaDB` |
-| [📰 AI-powered Journalism](https://github.com/HassanCodesIt/AI-powered-journalism) | Automated news generation & analysis via LLM pipelines | `Python` `LangChain` `Web Scraping` |
-| [🩺 Medical Patient Routing](https://github.com/HassanCodesIt/medical-patient-routing-assistant) | Clinical triage engine routing patients to the right specialist | `FastAPI` `Groq LLaMA` `Python` |
-| [📝 README & Docs Generator](https://github.com/HassanCodesIt/README-and-Documentation-generator) | Auto-generates professional README & docs from code | `FastAPI` `Groq` `LangChain` |
-| [🧠 NexusAI Search Chatbot](https://github.com/HassanCodesIt/NexusAI-AI-powered-searching) | Web-integrated chatbot fetching & answering queries live | `Flask` `ChromaDB` `HuggingFace` |
-| [✉️ Email Automation Agent](https://github.com/HassanCodesIt/email-automation-AI-AGENT) | Automates professional emails with AI-based logic | `Python` `Agents` |
-| [🧮 AI Content Generator](https://github.com/HassanCodesIt/Ai-content-generator) | LLM-powered creative writing & idea generation tool | `TypeScript` `LLMs` |
-| [🛠️ AI Tools All-in-One](https://github.com/HassanCodesIt/AI-Tools-all-in-one) | Comprehensive AI tools suite in a modern web interface | `HTML` `CSS` `JavaScript` |
-| [🧾 Resume Reviewer](https://github.com/HassanCodesIt/Resume-Reviewer) | AI-driven resume analysis with skill gap detection | `NLP` `Transformers` `Flask` |
-| [📊 Data Analysis Dashboard](https://github.com/HassanCodesIt/Data-Analysis-Dashboard) | Interactive data upload, analysis & visualization dashboard | `Pandas` `Plotly` `Flask` |
-| [☁️ RESTful Weather Logger](https://github.com/HassanCodesIt/RESTful-Weather-Logger) | Real-time weather data REST API with trend visualization | `Flask` `WeatherAPI` `Bootstrap` |
-| [📱 Event Manager Flutter](https://github.com/HassanCodesIt/event-manager-FLutter) | Cross-platform event app with Firebase real-time sync | `Flutter` `Dart` `Firebase` |
-| [🎟️ Event Registration System](https://github.com/HassanCodesIt/Event-Registration-Ticketing-System) | Event management & ticket generation via Flask APIs | `Flask` `Python` |
-| [🧑‍🏫 Lumos Learning App](https://github.com/HassanCodesIt/Lumos-Learning-APP) | Accessibility-driven learning app for children | `React.js` `TypeScript` `Tailwind` |
-| [🧳 Leave Management System](https://github.com/HassanCodesIt/Leave-Management-System-PHP-) | Leave management with role-based access control | `PHP` `MySQL` |
-| [🌽 Corn Leaf Disease Detection](https://github.com/HassanCodesIt/corn-leaf-disease-detection) | YOLOv8 model detecting corn plant diseases with precision | `YOLOv8n` `Computer Vision` |
-| [🍎 Fruit Detection](https://github.com/HassanCodesIt/fruit-detection-yolo) | Real-time fruit detection with YOLOv8 + OpenCV | `OpenCV` `Ultralytics` `Python` |
-| [💬 Symptom Checker Chatbot](https://github.com/HassanCodesIt/Symptom-Checker-Chatbot) | AI chatbot for medical symptom analysis & recommendations | `NLP` `Python` |
-| [🏡 House Price Prediction](https://github.com/HassanCodesIt/House-price-prediction) | Housing price prediction via regression models | `scikit-learn` `Pandas` |
-| [⚙️ DDoS Attack Detection](https://github.com/HassanCodesIt/DDOS-attack-detection-using-logistic-regression) | Network DDoS attack detection using machine learning | `Logistic Regression` `Python` |
+<table>
+<tr>
+
+<td valign="top" width="33%">
+<div align="left" style="background:#161b22;border-radius:12px;padding:22px;border:1px solid #30363d;margin:5px;">
+<p><a href="https://github.com/HassanCodesIt/RAG-Study-Assistant"><b>🧩 RAG Study Assistant</b></a></p>
+<p><span style="color:#00d4ff;"><b>AI-Powered PDF Learning Platform</b></span></p>
+<p>A PDF-based RAG system that lets students upload study materials and ask natural language questions. Extracts, chunks, and queries PDFs using semantic search.</p>
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logoColor=white" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+<img src="https://img.shields.io/badge/Groq%20LLM-00D4FF?style=flat-square&logoColor=black" alt="Groq LLM"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+</p>
+<br/>
+<a href="https://github.com/HassanCodesIt/RAG-Study-Assistant">
+<img src="https://img.shields.io/badge/View%20on%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/>
+</a>
+</div>
+</td>
+
+<td valign="top" width="33%">
+<div align="left" style="background:#161b22;border-radius:12px;padding:22px;border:1px solid #30363d;margin:5px;">
+<p><a href="https://github.com/HassanCodesIt/AI-powered-journalism"><b>📰 AI-Powered Journalism</b></a></p>
+<p><span style="color:#00d4ff;"><b>News Intelligence System</b></span></p>
+<p>Flask web app that scrapes BBC World RSS feeds, extracts full article text, and generates intelligence-grade news summaries using LLM pipelines.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Web%20Scraping-FF6B35?style=flat-square&logoColor=white" alt="Web Scraping"/>
+</p>
+<br/>
+<a href="https://github.com/HassanCodesIt/AI-powered-journalism">
+<img src="https://img.shields.io/badge/View%20on%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/>
+</a>
+</div>
+</td>
+
+<td valign="top" width="33%">
+<div align="left" style="background:#161b22;border-radius:12px;padding:22px;border:1px solid #30363d;margin:5px;">
+<p><a href="https://github.com/HassanCodesIt/medical-patient-routing-assistant"><b>🩺 Medical Patient Routing</b></a></p>
+<p><span style="color:#00d4ff;"><b>Clinical AI Triage System</b></span></p>
+<p>FastAPI-based clinical triage engine that analyzes patient symptoms using Groq LLaMA 3 and routes them to the most appropriate medical specialist.</p>
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Groq%20LLaMA-00D4FF?style=flat-square&logoColor=black" alt="Groq LLaMA"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+</p>
+<br/>
+<a href="https://github.com/HassanCodesIt/medical-patient-routing-assistant">
+<img src="https://img.shields.io/badge/View%20on%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/>
+</a>
+</div>
+</td>
+
+</tr>
+<tr>
+
+<td valign="top" width="33%">
+<div align="left" style="background:#161b22;border-radius:12px;padding:22px;border:1px solid #30363d;margin:5px;">
+<p><a href="https://github.com/HassanCodesIt/NexusAI-AI-powered-searching"><b>🧠 NexusAI Search Chatbot</b></a></p>
+<p><span style="color:#00d4ff;"><b>Web-Integrated AI Search</b></span></p>
+<p>Web-integrated chatbot that fetches live data, indexes it in ChromaDB, and answers queries in real time using semantic search and HuggingFace embeddings.</p>
+<p>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logoColor=white" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+</p>
+<br/>
+<a href="https://github.com/HassanCodesIt/NexusAI-AI-powered-searching">
+<img src="https://img.shields.io/badge/View%20on%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/>
+</a>
+</div>
+</td>
+
+<td valign="top" width="33%">
+<div align="left" style="background:#161b22;border-radius:12px;padding:22px;border:1px solid #30363d;margin:5px;">
+<p><a href="https://github.com/HassanCodesIt/corn-leaf-disease-detection"><b>🌽 Corn Leaf Disease Detection</b></a></p>
+<p><span style="color:#00d4ff;"><b>Deep Learning Vision</b></span></p>
+<p>YOLOv8 deep learning model trained on 4,924 images to detect 7 corn leaf diseases with high precision, enabling early agricultural disease diagnosis.</p>
+<p>
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black" alt="YOLOv8"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-FF6B35?style=flat-square&logoColor=white" alt="Computer Vision"/>
+</p>
+<br/>
+<a href="https://github.com/HassanCodesIt/corn-leaf-disease-detection">
+<img src="https://img.shields.io/badge/View%20on%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/>
+</a>
+</div>
+</td>
+
+<td valign="top" width="33%">
+<div align="left" style="background:#161b22;border-radius:12px;padding:22px;border:1px solid #30363d;margin:5px;">
+<p><a href="https://github.com/HassanCodesIt/Resume-Reviewer"><b>🧾 Resume Reviewer</b></a></p>
+<p><span style="color:#00d4ff;"><b>AI-Driven Resume Analysis</b></span></p>
+<p>AI-powered resume analysis tool with NLP-based skill gap detection, ATS compatibility scoring, and actionable improvement suggestions for job seekers.</p>
+<p>
+<img src="https://img.shields.io/badge/NLP-FF6B35?style=flat-square&logoColor=white" alt="NLP"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+</p>
+<br/>
+<a href="https://github.com/HassanCodesIt/Resume-Reviewer">
+<img src="https://img.shields.io/badge/View%20on%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/>
+</a>
+</div>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<a href="https://github.com/HassanCodesIt?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Projects%20→-00d4ff?style=for-the-badge&logoColor=000000" alt="View All Projects" height="38"/>
+</a>
 
 </div>
 
