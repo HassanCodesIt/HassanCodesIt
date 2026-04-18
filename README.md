@@ -122,6 +122,7 @@ I love solving real-world problems with scalable, clean, and intelligent code ‚Ä
 [![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white&style=for-the-badge)](https://github.com/HassanCodesIt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/hassan-huda/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:hassanhudapalakkad@gmail.com)
+[![Portfolio](https://img.shields.io/badge/üåê%20Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://hassan-huda-portfolio.vercel.app/)
 
 <br/><br/>
 
