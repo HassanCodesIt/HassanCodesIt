@@ -99,14 +99,14 @@ I love bridging the gap between raw data and production-ready intelligence — c
 <!-- ── Card 1 ── -->
 <td align="center" width="50%">
 <a href="https://github.com/HassanCodesIt/RAG-Study-Assistant">
-  <img src="./assets/card-rag.svg" width="100%" alt="RAG Study Assistant"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanCodesIt&repo=RAG-Study-Assistant&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" width="100%" alt="RAG Study Assistant"/>
 </a>
 </td>
 
 <!-- ── Card 2 ── -->
 <td align="center" width="50%">
 <a href="https://github.com/HassanCodesIt/AI-powered-journalism">
-  <img src="./assets/card-journalism.svg" width="100%" alt="AI-Powered Journalism"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanCodesIt&repo=AI-powered-journalism&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" width="100%" alt="AI-Powered Journalism"/>
 </a>
 </td>
 
@@ -116,14 +116,14 @@ I love bridging the gap between raw data and production-ready intelligence — c
 <!-- ── Card 3 ── -->
 <td align="center" width="50%">
 <a href="https://github.com/HassanCodesIt/medical-patient-routing-assistant">
-  <img src="./assets/card-medical.svg" width="100%" alt="Medical Patient Routing"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanCodesIt&repo=medical-patient-routing-assistant&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" width="100%" alt="Medical Patient Routing"/>
 </a>
 </td>
 
 <!-- ── Card 4 ── -->
 <td align="center" width="50%">
 <a href="https://github.com/HassanCodesIt/NexusAI-AI-powered-searching">
-  <img src="./assets/card-nexusai.svg" width="100%" alt="NexusAI Search Chatbot"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanCodesIt&repo=NexusAI-AI-powered-searching&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" width="100%" alt="NexusAI Search Chatbot"/>
 </a>
 </td>
 
@@ -133,14 +133,14 @@ I love bridging the gap between raw data and production-ready intelligence — c
 <!-- ── Card 5 ── -->
 <td align="center" width="50%">
 <a href="https://github.com/HassanCodesIt/corn-leaf-disease-detection">
-  <img src="./assets/card-corn.svg" width="100%" alt="Corn Leaf Disease Detection"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanCodesIt&repo=corn-leaf-disease-detection&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" width="100%" alt="Corn Leaf Disease Detection"/>
 </a>
 </td>
 
 <!-- ── Card 6 ── -->
 <td align="center" width="50%">
 <a href="https://github.com/HassanCodesIt/Resume-Reviewer">
-  <img src="./assets/card-resume.svg" width="100%" alt="Resume Reviewer"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanCodesIt&repo=Resume-Reviewer&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" width="100%" alt="Resume Reviewer"/>
 </a>
 </td>
 
@@ -225,7 +225,7 @@ I love bridging the gap between raw data and production-ready intelligence — c
 <br/><br/>
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=HassanCodesIt&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" width="100%" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=HassanCodesIt&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%" alt="Trophies"/>
 
 </div>
 
