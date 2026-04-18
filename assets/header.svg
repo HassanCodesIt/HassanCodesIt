@@ -1,0 +1,49 @@
+<svg viewBox="0 0 1200 310" xmlns="http://www.w3.org/2000/svg" width="1200" height="310">
+  <defs>
+    <!-- Subtle cyan glow — bottom-left -->
+    <radialGradient id="glow1" cx="12%" cy="90%" r="45%">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Subtle cyan glow — top-right -->
+    <radialGradient id="glow2" cx="88%" cy="10%" r="40%">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Glow filter for cyan text -->
+    <filter id="cyanglow" x="-15%" y="-40%" width="130%" height="180%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Dark background -->
+  <rect width="1200" height="310" fill="#0d1117"/>
+  <!-- Glow overlays -->
+  <rect width="1200" height="310" fill="url(#glow1)"/>
+  <rect width="1200" height="310" fill="url(#glow2)"/>
+
+  <!-- Location badge -->
+  <rect x="455" y="34" width="290" height="36" rx="18" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+  <!-- Pin icon -->
+  <path d="M478 47 C478 43.5 480.5 41 484 41 C487.5 41 490 43.5 490 47 C490 51.5 484 57 484 57 C484 57 478 51.5 478 47 Z" fill="none" stroke="#8b949e" stroke-width="1.4"/>
+  <circle cx="484" cy="47" r="2" fill="#8b949e"/>
+  <text x="497" y="57" font-family="'Segoe UI', system-ui, Arial, sans-serif" font-size="13.5" fill="#8b949e">Palakkad, Kerala, India</text>
+
+  <!-- Main heading: "Hassan Huda" centered, two-tone -->
+  <text x="600" y="172" font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-size="92" font-weight="900" text-anchor="middle" letter-spacing="-2">
+    <tspan fill="#ffffff">Hassan </tspan><tspan fill="#00d4ff" filter="url(#cyanglow)">Huda</tspan>
+  </text>
+
+  <!-- Description line 1 -->
+  <text x="600" y="228" font-family="'Segoe UI', system-ui, Arial, sans-serif" font-size="15.5" fill="#6e7681" text-anchor="middle">
+    Building intelligent systems that automate workflows, integrate LLMs into production,
+  </text>
+  <!-- Description line 2 -->
+  <text x="600" y="252" font-family="'Segoe UI', system-ui, Arial, sans-serif" font-size="15.5" fill="#6e7681" text-anchor="middle">
+    and turn complex data into actionable insights.
+  </text>
+</svg>
