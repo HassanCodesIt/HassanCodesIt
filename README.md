@@ -10,10 +10,6 @@
 <!--                        HERO BANNER                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/header.svg" width="100%" alt="Hassan Huda — AI Engineer"/>
-
-<br/>
-
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=560&lines=AI+Engineer;LLM+Integration+Specialist;Workflow+Automation+Builder;Computer+Vision+Engineer;RAG+%26+Vector+DB+Architect)](https://git.io/typing-svg)
 
