@@ -260,3 +260,37 @@ I love bridging the gap between raw data and production-ready intelligence — c
 
 </div>
 
+
+<!-- AUTO-GENERATED-REPOS-START -->
+## 🆕 Recently Added Projects
+
+<div align="center">
+
+
+
+| 💻 **Project** | 🚀 **Description** | 🧠 **Tech Stack** |
+|----------------|--------------------|--------------------|
+| 🔗 [**AI-powered-journalism-with-sentiment-analysis**](https://github.com/HassanCodesIt/AI-powered-journalism-with-sentiment-analysis) |  | HTML |
+| 🔗 [**BODHIDHARMA-MARTIAL-ARTS-CLUB**](https://github.com/HassanCodesIt/BODHIDHARMA-MARTIAL-ARTS-CLUB) |  | HTML |
+| 🔗 [**Hassan-Huda-Portfolio**](https://github.com/HassanCodesIt/Hassan-Huda-Portfolio) |  | TypeScript |
+| 🔗 [**Recruitment-management-system**](https://github.com/HassanCodesIt/Recruitment-management-system) |  | Python |
+| 🔗 [**Assignment-Evaluation-Assistant**](https://github.com/HassanCodesIt/Assignment-Evaluation-Assistant) |  | HTML |
+| 🔗 [**Email-Customer-support-Agent**](https://github.com/HassanCodesIt/Email-Customer-support-Agent) |  |  |
+| 🔗 [**AI-Tools-all-in-one**](https://github.com/HassanCodesIt/AI-Tools-all-in-one) |  | HTML |
+| 🔗 [**skills-copilot-codespaces-vscode**](https://github.com/HassanCodesIt/skills-copilot-codespaces-vscode) | My clone repository |  |
+| 🔗 [**README-and-Documentation-generator**](https://github.com/HassanCodesIt/README-and-Documentation-generator) |  | HTML |
+| 🔗 [**Event-Registration-Ticketing-System**](https://github.com/HassanCodesIt/Event-Registration-Ticketing-System) |  | Python |
+| 🔗 [**Leave-Management-System-PHP-**](https://github.com/HassanCodesIt/Leave-Management-System-PHP-) |  | JavaScript |
+| 🔗 [**Data-Analysis-Dashboard**](https://github.com/HassanCodesIt/Data-Analysis-Dashboard) | A modern, interactive Python dashboard for uploading, analyzing, and visualizing CSV/Excel data with Pandas, Plotly, and Flask. Features drilldown charts, Top N grouping, and a beautiful Bootstrap 5 UI. | Python |
+| 🔗 [**RESTful-Weather-Logger**](https://github.com/HassanCodesIt/RESTful-Weather-Logger) | A full-stack REST API project built with Flask that fetches and displays real-time weather data for multiple cities using WeatherAPI.com. Features a modern web UI, public REST endpoints, and is deployable on Render. | HTML |
+| 🔗 [**Ai-content-generator**](https://github.com/HassanCodesIt/Ai-content-generator) |  | TypeScript |
+| 🔗 [**email-automation-AI-AGENT**](https://github.com/HassanCodesIt/email-automation-AI-AGENT) |  |  |
+| 🔗 [**DDOS-attack-detection-using-logistic-regression**](https://github.com/HassanCodesIt/DDOS-attack-detection-using-logistic-regression) |  | HTML |
+| 🔗 [**Symptom-Checker-Chatbot**](https://github.com/HassanCodesIt/Symptom-Checker-Chatbot) |  | Python |
+| 🔗 [**Lumos-Learning-APP**](https://github.com/HassanCodesIt/Lumos-Learning-APP) |  | TypeScript |
+| 🔗 [**fruit-detection-yolo**](https://github.com/HassanCodesIt/fruit-detection-yolo) | A real-time fruit detection system using YOLOv8. Supports images, videos, and webcam streams with annotated outputs. Built with Python, OpenCV, and Ultralytics. Detects and classifies fruits accurately, featuring live detection, output saving, and multi-source compatibility. | Python |
+| 🔗 [**House-price-prediction**](https://github.com/HassanCodesIt/House-price-prediction) |  | Jupyter Notebook |
+
+</div>
+
+<!-- AUTO-GENERATED-REPOS-END -->
